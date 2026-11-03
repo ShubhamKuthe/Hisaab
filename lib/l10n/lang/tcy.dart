@@ -1,0 +1,23 @@
+// Tulu (Kannada script) - partial, falls back to Kannada - generated from the Hisaab translation sheet.
+const Map<String, String> tcyStrings = {
+  'appName': 'ಹಿಸಾಬ್',
+  'language': 'ಬಾಸೆ',
+  'udhaarGiven': 'ಸಾಲ ಕೊರಿಯೆ',
+  'paymentReceived': 'ದುಡ್ಡು ಬತ್ತ್ಂಡ್',
+  'today': 'ಇನಿ',
+  'moneyIn': 'ಬತ್ತಿನ ದುಡ್ಡು',
+  'moneyOut': 'ಪೋಯಿನ ದುಡ್ಡು',
+  'customerName': 'ಗಿರಾಕಿನ ಪುದರ್',
+  'yes': 'ಅಂದ್',
+  'no': 'ಇಜ್ಜಿ',
+  'customers': 'ಗಿರಾಕಿಲು',
+  'search': 'ಪುದರ್ ನಾಡ್ಲೆ',
+  'back': 'ಪಿರ',
+  'shopName': 'ಅಂಗಡಿದ ಪುದರ್',
+  'thankYou': 'ಸೊಲ್ಮೆಲು! ಕುಡ ಬಲೆ.',
+  'searchCustomer': 'ಗಿರಾಕಿನ್ ನಾಡ್ಲೆ',
+  'todayLower': 'ಇನಿ',
+  'yesterday': 'ಕೋಡೆ',
+  'localDigits': 'ಕನ್ನಡ ಅಂಕಿಲು ({d})',
+  'beta': 'ಪರೀಕ್ಷೆ',
+};

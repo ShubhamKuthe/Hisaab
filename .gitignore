@@ -1,0 +1,22 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+# Windows build output
+windows/flutter/ephemeral/
+android/.gradle/
+android/local.properties
+android/app/.cxx/
+android/key.properties
+*.jks
+*.keystore
+# The phone app is attached to GitHub Releases, not kept in the code
+Hisaab.apk
+*.apk

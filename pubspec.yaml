@@ -1,0 +1,31 @@
+name: hisaab
+description: "Hisaab - simple shop accounts in Marathi, Hindi and English."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.4
+  archive: ^3.6.1
+  file_selector: ^1.0.3
+  crypto: ^3.0.3
+  pdf: ^3.11.0
+  printing: ^5.13.0
+  speech_to_text: ^7.3.0
+  url_launcher: ^6.3.1
+  qr_flutter: ^4.1.0
+  share_plus: ^10.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
